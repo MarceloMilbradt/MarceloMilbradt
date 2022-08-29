@@ -27,11 +27,11 @@
 ### Currently working on
 
 <a href="https://github.com/MarceloMilbradt/TowerDefense3DGame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloMilbradt&repo=TowerDefense3DGame" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloMilbradt&repo=TowerDefense3DGame&theme=midnight-purple" />
 </a>
 
 <a href="https://github.com/MarceloMilbradt/TurnBasedShooter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloMilbradt&repo=TurnBasedShooter" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloMilbradt&repo=TurnBasedShooter&theme=midnight-purple" />
 </a>
 
 </div>
@@ -39,11 +39,11 @@
 <div align="center">
 
 <a href="https://github.com/MarceloMilbradt/PixelEffectSRP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloMilbradt&repo=PixelEffectSRP" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloMilbradt&repo=PixelEffectSRP&theme=midnight-purple" />
 </a>
 
 <a href="https://github.com/MarceloMilbradt/SmartLedManager.NET">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloMilbradt&repo=SmartLedManager.NET" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloMilbradt&repo=SmartLedManager.NET&theme=midnight-purple" />
 </a>
 
 </div>
