@@ -12,7 +12,7 @@
 
   <a href="https://github.com/MarceloMilbradt">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarceloMilbradt&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarceloMilbradt&layout=compact&langs_count-16&theme=midnight-purple&hide=javascript,html,scss,css,ShaderLab,HLSL,Mathematica"/>
+
 </div>
 
 <div align="center">
