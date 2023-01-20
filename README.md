@@ -11,8 +11,8 @@
 <div align="center">
 
   <a href="https://github.com/MarceloMilbradt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloMilbradt&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloMilbradt&layout=compact&langs_count-16&theme=midnight-purple&hide=javascript,html,scss,css,ShaderLab,HLSL,Mathematica"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarceloMilbradt&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarceloMilbradt&layout=compact&langs_count-16&theme=midnight-purple&hide=javascript,html,scss,css,ShaderLab,HLSL,Mathematica"/>
 </div>
 
 <div align="center">
@@ -27,11 +27,11 @@
 ### Currently working on
 
 <a href="https://github.com/MarceloMilbradt/TowerDefense3DGame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloMilbradt&repo=TowerDefense3DGame&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarceloMilbradt&repo=TowerDefense3DGame&theme=midnight-purple" />
 </a>
 
 <a href="https://github.com/MarceloMilbradt/TurnBasedShooter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloMilbradt&repo=TurnBasedShooter&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarceloMilbradt&repo=TurnBasedShooter&theme=midnight-purple" />
 </a>
 
 </div>
@@ -39,11 +39,11 @@
 <div align="center">
 
 <a href="https://github.com/MarceloMilbradt/PixelEffectSRP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloMilbradt&repo=PixelEffectSRP&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarceloMilbradt&repo=PixelEffectSRP&theme=midnight-purple" />
 </a>
 
 <a href="https://github.com/MarceloMilbradt/SmartLedManager.NET">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloMilbradt&repo=SmartLedManager.NET&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarceloMilbradt&repo=SmartLedManager.NET&theme=midnight-purple" />
 </a>
 
 </div>
