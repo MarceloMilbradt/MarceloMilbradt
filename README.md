@@ -43,7 +43,7 @@
 </a>
 
 <a href="https://github.com/MarceloMilbradt/Firelink">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarceloMilbradt&repo=Firelink.NET&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarceloMilbradt&repo=Firelink&theme=midnight-purple" />
 </a>
 
 </div>
