@@ -2,7 +2,7 @@
 
 # Hello there
 
-### Working on some random games and projects
+### Working on some random stuff
 
 
 ---
