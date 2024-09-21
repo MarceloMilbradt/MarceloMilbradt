@@ -30,23 +30,10 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarceloMilbradt&repo=Firelink&theme=midnight-purple" />
 </a>
 
-<a href="https://github.com/MarceloMilbradt/TurnBasedShooter">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarceloMilbradt&repo=TurnBasedShooter&theme=midnight-purple" />
+<a href="https://github.com/MarceloMilbradt/NWled">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarceloMilbradt&repo=NWled&theme=midnight-purple" />
 </a>
 
 </div>
-<br>
-<div align="center">
-
-<a href="https://github.com/MarceloMilbradt/PixelEffectSRP">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarceloMilbradt&repo=PixelEffectSRP&theme=midnight-purple" />
-</a>
-  
-  <a href="https://github.com/MarceloMilbradt/TowerDefense3DGame">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarceloMilbradt&repo=TowerDefense3DGame&theme=midnight-purple" />
-</a>
-  
-</div>
-
 
 </div>
